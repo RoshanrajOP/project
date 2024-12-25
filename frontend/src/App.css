@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+input {
+  margin: 20px;
+  padding: 8px;
+  width: 300px;
+}
+
+table {
+  width: 60%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+}
